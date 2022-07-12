@@ -1,0 +1,32 @@
+C:\Kuliah\Pemograman\obj\Debug\net5.0\Pemograman.csproj.AssemblyReference.cache
+C:\Kuliah\Pemograman\obj\Debug\net5.0\Pemograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Pemograman\obj\Debug\net5.0\Pemograman.AssemblyInfoInputs.cache
+C:\Kuliah\Pemograman\obj\Debug\net5.0\Pemograman.AssemblyInfo.cs
+C:\Kuliah\Pemograman\obj\Debug\net5.0\Pemograman.csproj.CoreCompileInputs.cache
+C:\Kuliah\Pemograman\bin\Debug\net5.0\Pemograman.exe
+C:\Kuliah\Pemograman\bin\Debug\net5.0\Pemograman.deps.json
+C:\Kuliah\Pemograman\bin\Debug\net5.0\Pemograman.runtimeconfig.json
+C:\Kuliah\Pemograman\bin\Debug\net5.0\Pemograman.runtimeconfig.dev.json
+C:\Kuliah\Pemograman\bin\Debug\net5.0\Pemograman.dll
+C:\Kuliah\Pemograman\bin\Debug\net5.0\ref\Pemograman.dll
+C:\Kuliah\Pemograman\bin\Debug\net5.0\Pemograman.pdb
+C:\Kuliah\Pemograman\obj\Debug\net5.0\Pemograman.dll
+C:\Kuliah\Pemograman\obj\Debug\net5.0\ref\Pemograman.dll
+C:\Kuliah\Pemograman\obj\Debug\net5.0\Pemograman.pdb
+C:\Kuliah\Pemograman\obj\Debug\net5.0\Pemograman.genruntimeconfig.cache
+C:\Kuliah\Pemograman tempat ngoding\obj\Debug\net5.0\Pemograman.csproj.AssemblyReference.cache
+C:\Kuliah\Pemograman tempat ngoding\obj\Debug\net5.0\Pemograman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Pemograman tempat ngoding\obj\Debug\net5.0\Pemograman.AssemblyInfoInputs.cache
+C:\Kuliah\Pemograman tempat ngoding\obj\Debug\net5.0\Pemograman.AssemblyInfo.cs
+C:\Kuliah\Pemograman tempat ngoding\obj\Debug\net5.0\Pemograman.csproj.CoreCompileInputs.cache
+C:\Kuliah\Pemograman tempat ngoding\obj\Debug\net5.0\Pemograman.dll
+C:\Kuliah\Pemograman tempat ngoding\obj\Debug\net5.0\ref\Pemograman.dll
+C:\Kuliah\Pemograman tempat ngoding\obj\Debug\net5.0\Pemograman.pdb
+C:\Kuliah\Pemograman tempat ngoding\bin\Debug\net5.0\Pemograman.exe
+C:\Kuliah\Pemograman tempat ngoding\bin\Debug\net5.0\Pemograman.deps.json
+C:\Kuliah\Pemograman tempat ngoding\bin\Debug\net5.0\Pemograman.runtimeconfig.json
+C:\Kuliah\Pemograman tempat ngoding\bin\Debug\net5.0\Pemograman.runtimeconfig.dev.json
+C:\Kuliah\Pemograman tempat ngoding\bin\Debug\net5.0\Pemograman.dll
+C:\Kuliah\Pemograman tempat ngoding\bin\Debug\net5.0\ref\Pemograman.dll
+C:\Kuliah\Pemograman tempat ngoding\bin\Debug\net5.0\Pemograman.pdb
+C:\Kuliah\Pemograman tempat ngoding\obj\Debug\net5.0\Pemograman.genruntimeconfig.cache
